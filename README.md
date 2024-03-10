@@ -9,6 +9,4 @@ The NLapi only uses two luarocks modules.
 
 The NLapi has only been tested with **Lua 5.1!**
 
-*It is unconfirmed by me* if this will work with any previous/further versions of Lua.
-
-Contributing and forking is completely fine as long as credit is given!
+demo available [here!](https://api.nologic.wtf)
